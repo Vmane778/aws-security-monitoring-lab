@@ -11,3 +11,4 @@
 ![CloudTrail Dashboard](https://github.com/user-attachments/assets/f6abfde6-d2ff-4ddc-ab4c-e4de1de3518a)
 
 ### CloudWatch Alarm Email Notification
+![CloudWatch Alarm Email Notification](https://github.com/user-attachments/assets/b4c27e1f-71a0-4aed-b148-13b91a36eb4a)
