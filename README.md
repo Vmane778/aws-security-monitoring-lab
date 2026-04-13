@@ -49,3 +49,9 @@ This project demonstrates a cloud-based security monitoring system using AWS ser
 - How to monitor AWS environments in real time
 - How attackers interact with cloud systems
 - How to build detection and alerting pipelines
+
+---
+
+## 📸 Screenshots
+
+See [screenshots.md](screenshots.md) for full screenshots of the setup and results.
